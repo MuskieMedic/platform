@@ -51,7 +51,7 @@
     "roboto-fontface": "^0.10.0",
     "toastr": "^2.1.4",
     "underscore": "^1.9.1",
-    "urijs": "^1.19.1"
+    "urijs": "^1.19.7"
   },
   "jest": {
     "verbose": true,
